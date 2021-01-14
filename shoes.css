@@ -1,5 +1,6 @@
 .panda-card{
     border:0;
+    border-radius:30px;
 }
 .panda-card-footer{
     background-color: white;
